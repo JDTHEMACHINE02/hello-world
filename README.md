@@ -1,3 +1,3 @@
 # hello-world
 
-print("Hello world")
+System.out.println("Hellow world")
